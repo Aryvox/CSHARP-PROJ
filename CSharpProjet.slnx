@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LibraryManagerApp/LibraryManagerApp.csproj" />
+  <Project Path="WeatherApp/WeatherApp.csproj" />
+</Solution>

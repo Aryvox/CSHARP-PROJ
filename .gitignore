@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Local secret overrides (optional)
+appsettings.local.json
+**/appsettings.local.json
